@@ -1,2 +1,3 @@
 a = 12
-print(a)
+b = 50
+print(a+b)
